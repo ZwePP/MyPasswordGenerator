@@ -1,7 +1,4 @@
-﻿
-Random rnd = new Random();
-
-
+﻿Random rnd = new Random();
 Console.WriteLine("Password Generator");
 Console.WriteLine("Enter Length of Password");
 int lengthOfPassword = Convert.ToInt32(Console.ReadLine());

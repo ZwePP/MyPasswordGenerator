@@ -1,0 +1,15 @@
+C:\Users\User\source\repos\MyPasswordGenerator\ConsoleApp\bin\Debug\net8.0\ConsoleApp.exe
+C:\Users\User\source\repos\MyPasswordGenerator\ConsoleApp\bin\Debug\net8.0\ConsoleApp.deps.json
+C:\Users\User\source\repos\MyPasswordGenerator\ConsoleApp\bin\Debug\net8.0\ConsoleApp.runtimeconfig.json
+C:\Users\User\source\repos\MyPasswordGenerator\ConsoleApp\bin\Debug\net8.0\ConsoleApp.dll
+C:\Users\User\source\repos\MyPasswordGenerator\ConsoleApp\bin\Debug\net8.0\ConsoleApp.pdb
+C:\Users\User\source\repos\MyPasswordGenerator\ConsoleApp\obj\Debug\net8.0\ConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\MyPasswordGenerator\ConsoleApp\obj\Debug\net8.0\ConsoleApp.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\MyPasswordGenerator\ConsoleApp\obj\Debug\net8.0\ConsoleApp.AssemblyInfo.cs
+C:\Users\User\source\repos\MyPasswordGenerator\ConsoleApp\obj\Debug\net8.0\ConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\MyPasswordGenerator\ConsoleApp\obj\Debug\net8.0\ConsoleApp.dll
+C:\Users\User\source\repos\MyPasswordGenerator\ConsoleApp\obj\Debug\net8.0\refint\ConsoleApp.dll
+C:\Users\User\source\repos\MyPasswordGenerator\ConsoleApp\obj\Debug\net8.0\ConsoleApp.pdb
+C:\Users\User\source\repos\MyPasswordGenerator\ConsoleApp\obj\Debug\net8.0\ConsoleApp.genruntimeconfig.cache
+C:\Users\User\source\repos\MyPasswordGenerator\ConsoleApp\obj\Debug\net8.0\ref\ConsoleApp.dll
+C:\Users\User\source\repos\MyPasswordGenerator\ConsoleApp\obj\Debug\net8.0\ConsoleApp.sourcelink.json
